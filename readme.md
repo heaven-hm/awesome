@@ -502,7 +502,7 @@
 - [Game Production](https://github.com/vhladiienko/awesome-game-production#readme) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
 - [Babylon.js](https://github.com/Symbitic/awesome-babylonjs#readme) - Game engine for cross-platform web and native game development.
 - [Roblox](https://github.com/awesome-roblox/awesome-roblox#readme) - Immersive platform for hosting millions of diverse experiences.
-- [Reverse-Engineered Games](https://github.com/heaven-hm/awesome-reverse-engineered-games#readme) - AI-assisted reverse engineering and preservation of video games.
+- [Reverse-Engineered Games](https://github.com/heaven-hm/awesome-reverse-engineered-games#readme) - Open-source projects that reconstruct classic video games through decompilation and disassembly.
 
 ## Development Environment
 
